@@ -1,0 +1,14 @@
+[Bb]uild/
+[Ll]ibrary/
+[Oo]bj/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.userprefs
