@@ -13,9 +13,12 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     float speed = 6f; // Player speed
+
+    //TODO get it done
+
     Animator anim;
 
-    void Start()
+    void Startaaa()
     {
         anim = this.GetComponent<Animator>();
     }
